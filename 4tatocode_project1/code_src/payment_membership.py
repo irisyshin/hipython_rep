@@ -1,9 +1,11 @@
 from . import menu 
 from . import display 
 
+# membership storage w. phone num, update the dic w. newest membership point 
 membership_dict = {}
 def pay_deci():
     while True:
+        # return tehe answer 
         answer = input("주문이 확정되었습니다. 결제를 하시겠습니까? (y/n): ").lower().strip()
         if answer in ['y', 'n']:
             return answer
