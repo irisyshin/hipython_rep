@@ -44,6 +44,6 @@
 
 | 이름 | GitHub | 블로그 |
 |------|--------|--------|
-| (예시) 신윤서 | [github.com/your-id](https://github.com/your-id) | [velog.io/@your-id](https://velog.io/@your-id) |
+| Iris Shin | [irisyshin](https://github.com/irisyshin) | [irisyshin.log](https://velog.io/@iriseverywhere/posts) |
 
 ---
