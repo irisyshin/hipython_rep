@@ -1,11 +1,12 @@
-# 📚 LG U+ Why Not SW Camp Python 실습 정리
+# 📚 Python Practice Repository – Why Not SW Camp 2025
 
 이 저장소는 **2025년 LG U+ Why Not SW Camp**에서 진행한 Python 학습 실습 파일 모음입니다.  
 기초 문법부터 데이터 분석, 예외처리, 객체지향 프로그래밍까지 단계적으로 실습하며 배운 내용을 정리했습니다.
 
 ---
 
-## 🧠 실습 목록
+## 🗂️  실습 목록
+
 
 | 주제 | 파일명 | 주요 내용 |
 |------|--------|-----------|
@@ -20,15 +21,17 @@
 | ⑨ 객체지향 프로그래밍 | `10. class_object.ipynb` | 클래스/인스턴스, 메서드, 상속 |
 | ⑩ 데이터 분석 기초 | `11_데이터분석.ipynb` | `numpy`, `collections`, `matplotlib` |
 | 🔁 반복 학습 | `실습_300.ipynb` | 핵심 문법 반복 연습 문제집 |
+| 🎯 미니 프로젝트 1 | `first.py` | 기초 문법 복습용 Python 스크립트 |
+| 🎯 미니 프로젝트 2 | `snack_box.py` | 함수 기반 자판기 프로그램 |
 
 ---
 
-## 💻 Python 스크립트
+## 🛠 개발 환경
 
-| 파일명 | 설명 |
-|--------|------|
-| `first.py` | 함수 정의 및 실행 예제 (`__main__` 포함) |
-| `snack_box.py` | 간식 자판기 프로젝트, 함수 구조 및 사용자 입력 처리 포함 |
+- Python 3.10+
+- VS Code + Python Extension
+- Jupyter Notebook
+- Git / GitHub
 
 ---
 
