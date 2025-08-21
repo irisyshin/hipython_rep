@@ -6,3 +6,5 @@ folium
 plotly
 seaborn
 streamlit_folium
+streamlit_autorefresh
+time
