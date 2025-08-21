@@ -8,8 +8,8 @@ st.sidebar.header('웰컴메뉴')
 selected_menu = st.sidebar.selectbox(
     '메뉴선택', ['메인', '분석', '설정']
 )
-img1 = Image.open('./image/dog.jpg')
-img2 = Image.open('./image/cat.png')
+#img1 = Image.open('./image/dog.jpg')
+#img2 = Image.open('./image/cat.png')
 
 col1, col2  = st.columns(2)
 
@@ -35,10 +35,10 @@ def make_anal_tab():
 #페이지별 화면구성 
 if selected_menu == '메인':
     st.header('*메인페이지*')
-    with col1:
-        st.image(img1, width=300, caption='강아지!!!!!!')
-    with col2:
-        st.image(img2, width=300, caption='고양이!!!!!')
+    # with col1:
+    #     st.image(img1, width=300, caption='강아지!!!!!!')
+    # with col2:
+    #     st.image(img2, width=300, caption='고양이!!!!!')
 
 elif selected_menu == '분석':
     st.subheader('분석 보고서')
