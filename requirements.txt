@@ -1,0 +1,9 @@
+requirements.txt
+
+streamlit
+pandas
+numpy
+matplotlib
+folium
+seaborn
+plotly
