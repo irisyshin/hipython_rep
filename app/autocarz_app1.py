@@ -76,7 +76,7 @@ def make_anal_tab(data):
             fig4 = px.box(data, x=x_option, y=y_option, width=500)
         st.plotly_chart(fig4, use_container_width=True)
 
-CO2_df = pd.read_csv('../data/CO2_Emissions.csv')
+CO2_df = pd.read_csv('hipython_rep/data/CO2_Emissions.csv')
 
 # analysis tab
 def analysis_tab(co2_df):
